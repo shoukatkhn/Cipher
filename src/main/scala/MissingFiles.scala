@@ -1,3 +1,4 @@
+package Cipher
 /**
   * given two paths find outs what are the files missing, but check subdirectories as well
   * ex: /home/foo/

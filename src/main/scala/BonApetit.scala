@@ -1,3 +1,4 @@
+package Cipher
 /**
     * Anna and Brian order n items at a restaurant, but Anna declines to eat any of the kth item (where 0 <= k <= n)
     * due to an allergy. When the check comes, they decide to split the cost of all the items they shared;

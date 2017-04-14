@@ -1,3 +1,4 @@
+package Cipher
 /**
   * The member states of the UN are planning to send 2 people to the Moon. But there is a problem.
   * In line with their principles of global unity, they want to pair astronauts of 2 different countries.

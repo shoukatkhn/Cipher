@@ -1,3 +1,4 @@
+package Cipher
 /**
     * A Discrete Mathematics professor has a class of N students. Frustrated with their lack of discipline,
     * he decides to cancel class if fewer than K students are present when class starts.
