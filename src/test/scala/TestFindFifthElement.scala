@@ -1,6 +1,5 @@
 package Cipher
 
-import TheWeatherCompany.{FindFifthElement, Node}
 import org.specs2.mutable.Specification
 
 class TestFindFifthElement extends Specification {
